@@ -1,10 +1,6 @@
-package main
+package cash
 
 import "math"
-
-func main() {
-
-}
 
 func cash(input float64) int {
 	var coins int
