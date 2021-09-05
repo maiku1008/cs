@@ -22,8 +22,8 @@ int main(void)
 
         printSpaces(spaces);
         printHashes(hashes);
-        printSpaces(2);
-        printHashes(hashes);
+        // printSpaces(2);
+        // printHashes(hashes);
         printf("\n");
     }
 }
